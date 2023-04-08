@@ -1,0 +1,22 @@
+{
+  "name": "dripplyjs",
+  "version": "1.0.1",
+  "description": "A JavaScript framework for making websites easy with JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xt39/dripply.git"
+  },
+  "keywords": [
+    "odd"
+  ],
+  "author": "xt39",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xt39/dripply/issues"
+  },
+  "homepage": "https://github.com/xt39/dripply#readme"
+}
