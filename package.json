@@ -1,5 +1,5 @@
 {
-  "name": "dripplyjs",
+  "name": "@xt39/dripplyjs",
   "version": "1.0.1",
   "description": "A JavaScript framework for making websites easy with JavaScript",
   "main": "index.js",
