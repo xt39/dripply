@@ -16,10 +16,6 @@ Git Bash:
 ```shell
 git clone http://github.com/xt39/dripply
 ```
-My Install (you can change the version if you want):
-```text
-http://xt39.github.io/pkgs/lib/dripply/1.0.1/dripply.min.js
-```
 ### Why Dripply
 because it is not as heavy as most frameworks<br/>
 thanks to clean minimal code and includes alot of tools
